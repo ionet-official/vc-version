@@ -9,7 +9,7 @@ This repository maintains version control for the VC Container Image. It tracks 
 
 ## Support
 
-If you encounter any issues, you may open a ticket with our support team by logging into [IO.Net](https://ionet-official.com) and clicking the chat bubble in the lower right-hand corner.
+If you encounter any issues, you may open a ticket with our support team by logging into [IO.Net](https://io.net) and clicking the chat bubble in the lower right-hand corner.
 
 ## Thank You
 
